@@ -1,3 +1,5 @@
+#day 1, homework 1
+
 from turtle import *
 speed ( 30 )
 
