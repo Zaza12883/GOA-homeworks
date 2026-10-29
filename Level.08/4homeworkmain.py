@@ -1,0 +1,6 @@
+Name = input("Enter Your Name")
+Surname = input("Enter Your Surname")
+Age = input("Enter Your Age")
+Location = input("Enter Your Location")
+Occupation = input("Enter Your Occupation")
+Hobby = input ("Enter Your Hobby")
