@@ -1,0 +1,37 @@
+body
+{
+    background-color: black;
+}
+p
+{
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+}
+a
+{    
+    color: rgba(247, 95, 0, 0.767);
+    text-align: right;
+}
+p
+{
+    color: orange;
+}
+h1
+{
+    color: orange;
+}
+h2
+{
+    text-align: center;
+}
+h2
+{
+    color: orange;
+}
+a
+{
+    text-align:right;
+}

@@ -1,0 +1,24 @@
+body
+{
+    background-color: rgb(0, 0, 0);
+}
+h2
+{
+    color: orange;
+}
+a
+{
+    color: rgba(247, 95, 0, 0.767);
+}
+h2
+{
+    text-align: center;
+}
+p
+{
+    text-align: left;
+}
+p
+{
+    text-align: right;
+}

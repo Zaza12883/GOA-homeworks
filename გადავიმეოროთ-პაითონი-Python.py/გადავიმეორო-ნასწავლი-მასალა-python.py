@@ -1,3 +1,9 @@
+name = "zaza"
+secret_name = input( "Enter Your Name: ")
+if secret_name == name:
+    print("Correct Name")
+else:
+    print("Wrong Name")
 
 password = "99778800"
 secret_password = input("Enter Your Password: ")
